@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="moj_tekst">Hallo Welt!</string>
+    <string name="moj_tekst1">Basia</string>
+    <string name="moj_tekst2">Jagielska</string>
+    <string name="moj_tekst3">32a</string>
+    <string name="moj_tekst4">Android Studio</string>
+    <string name="moj_tekst5">Lab2</string>
+</resources>
